@@ -1,2 +1,2 @@
-let myname :string = 'Subham';
+let myname :string = 'Subham Panda';
 console.log(myname)
